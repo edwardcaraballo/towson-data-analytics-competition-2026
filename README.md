@@ -27,7 +27,7 @@ Counties were ranked to identify the best and worst performers in:
 - Average Number of Physically Unhealthy Days
 - Average Number of Mentally Unhealthy Days
 
-![Lowest Avg Number of Physically Unhealthy Days](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/LowestPhysUnhealthyDays2.png)
+![Lowest Avg Number of Physically Unhealthy Days](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/LowestPhysUnhealthyDays2.png)
 
 ![Lowest % Fair or Poor Health](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/LowestPctPoorHealth2.png)
 
