@@ -29,16 +29,16 @@ Counties were ranked to identify the best and worst performers in:
 
 ![Lowest Avg Number of Physically Unhealthy Days](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/LowestPhysUnhealthyDays2.png)
 
-![Lowest % Fair or Poor Health](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/LowestPctPoorHealth2.png)
+![Lowest % Fair or Poor Health](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/LowestPctPoorHealth2.png)
 
-![Highest % Fair or Poor Health](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/HighestPctPoorHealth.png)
+![Highest % Fair or Poor Health](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/HighestPctPoorHealth.png)
 
-![Highest % Uninsured](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/HighestPctUninsured.png)
+![Highest % Uninsured](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/HighestPctUninsured.png)
 
 ### 2. Overlap Analysis
 A heatmap was created using the 10 counties with the highest uninsured rates to determine which counties also ranked poorly across other health outcomes.
 
-![Counties with Highest Uninsured Rates and Overlapping Health Vulnerabilities Heatmap](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/HeatmapCaraballo.png)
+![Counties with Highest Uninsured Rates and Overlapping Health Vulnerabilities Heatmap](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/HeatmapCaraballo.png)
 
 ### 3. Multiple Linear Regression
 Separate regression models were run for:
@@ -54,11 +54,11 @@ The predictors tested were:
 - % Severe Housing Problems
 - Food Environment Index
 
-![Mental Health Regression](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/MentallyUnhealthRegression.png)
+![Mental Health Regression](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/MentallyUnhealthRegression.png)
 
-![Physical Health Regression](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/PhysRegression.png)
+![Physical Health Regression](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/PhysRegression.png)
 
-![Fair or Poor Health Regression](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations%3A/FairPoorHealthRegression.png)
+![Fair or Poor Health Regression](https://github.com/edwardcaraballo/towson-data-analytics-competition-2026/blob/main/visualizations/FairPoorHealthRegression.png)
 
 ## Key Findings:
 
