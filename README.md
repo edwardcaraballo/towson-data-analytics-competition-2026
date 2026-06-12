@@ -100,27 +100,65 @@ These counties showed the strongest overlap between high uninsured rates and poo
 - Microsoft Excel
 - PowerPoint
 
-## How to run:
-- Download the entire repository to your local machine
-- Open a terminal and navigate to the project root folder
+## How to Run
 
-```bash
-cd /path/to/county-health-analysis
+### 1. Download the Project
+
+Click the green **Code** button on this GitHub page, then click **Download ZIP**.
+
+After the ZIP file downloads, unzip the folder.
+
+---
+
+### 2. Open a Terminal in the Project Folder
+
+Open the main project folder. This is the folder that contains:
+
+```txt
+README.md
+data/
+notebooks/
+presentation/
+report/
+visualizations/
 ```
 
-- Install required packages (if not already installed)
+On Mac, right-click the project folder and choose **New Terminal at Folder**.
+
+On Windows, right-click the project folder and choose **Open in Terminal**.
+
+---
+
+### 3. Install Required Packages
+
+Copy and paste this into the terminal:
 
 ```bash
-pip install pandas matplotlib scikit-learn jupyter
+python -m pip install pandas matplotlib scikit-learn jupyter openpyxl
 ```
 
-- Launch Jupyter Notebook from the project root folder
+If you are on Mac and `python` does not work, use this instead:
+
+```bash
+python3 -m pip install pandas matplotlib scikit-learn jupyter openpyxl
+```
+
+---
+
+### 4. Launch Jupyter Notebook
+
+Copy and paste this into the terminal:
 
 ```bash
 jupyter notebook
 ```
 
-- In the Jupyter interface that opens in your browser, open the notebook located in the `notebooks/` folder
-- Run the notebook cells in order
+---
 
-<sub><b>Note:</b> This project uses relative file paths, so it will run as long as the folder structure remains the same. Do not move the notebook, data, or visualizations out of their respective folders. Always launch Jupyter Notebook from the project root folder so the relative paths work correctly.</sub>
+### 5. Open and Run the Notebook
+
+When Jupyter opens in your browser, click the `notebooks` folder.
+
+Open the `.ipynb` notebook file and run the cells in order.
+
+The project should run correctly as long as the original folder structure stays the same.
